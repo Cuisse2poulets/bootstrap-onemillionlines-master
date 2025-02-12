@@ -1,4 +1,5 @@
 /* Vos customisations des classes de Bootstrap */
+
 html {
     padding: 0, 0, 0, 0;
 }
@@ -17,9 +18,7 @@ nav {
     margin-top: 20px;
 }
 
-dvwxcvfv xck:g df$p* .logo {
-    margin-left: 10%;
-}
+
 
 
 .text {
@@ -77,12 +76,22 @@ dvwxcvfv xck:g df$p* .logo {
     color: rgb(230, 35, 35);
 }
 
-button {
+
+.texte4 {
+
+    display: flex;
+    align-items: center;
+
+}
+
+.myb {
     background-color: brown;
     color: aliceblue;
     width: 200px;
     padding: 20px;
     font-size: 20px;
+
+
 }
 
 #get-involved {
@@ -91,7 +100,7 @@ button {
     height: 85vh;
     color: rgb(230, 35, 35);
     text-align: center;
-    
+
 }
 
 .get_involved {
@@ -108,9 +117,53 @@ button {
 
 i {
     font-size: 40px;
+    color: rgb(0, 0, 0);
 }
 
 
+.name_involved {
+
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-start;
+    margin-right: 50px;
+    width: 100%;
+
+}
+
+.textegetinvolved {
+
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    width: 100%
+}
+
+.myd {
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.myg {
+    color: red;
+}
+
+
+#footer {
+
+    background-color: rgb(253, 64, 64);
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    align-items: end;
+}
+
+
+.imaj_fout {
+    height: 25px;
+}
 
 
 
